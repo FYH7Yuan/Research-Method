@@ -1,1 +1,0 @@
-const availableImg = ["MarreQuentin2021VGIa","KimHana2018Rsip","LeeChun-Hsiung2018Wdsi","FaqihKhaledM.S.2022Fitb","JinYuanzhe2019PBMf","SushraTulasi2022Jabb","LeeJohnny20174IPM","LiuBoyang2020Igas","EishitaFarjanaZ.2018Tiop","SchlomannAnna2020SbDA"];
